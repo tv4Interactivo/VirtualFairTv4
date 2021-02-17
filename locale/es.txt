@@ -5,7 +5,7 @@
 ### Description
 
 ### Título
-tour.name = Sin Título 2
+tour.name = 7° Foro Internacional
 
 ## Skin
 
