@@ -5,17 +5,18 @@
 ### Description
 
 ### Título
-tour.name = Sin Título 1
+tour.name = Sin Título 2
 
 ## Skin
 
 ### Botón
-Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = INFORMACIÓN
 Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
 Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMAS
 Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
-Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = CONFERENCISTA
 Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
 Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
 Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
 Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = lorem ipsum
@@ -36,38 +37,21 @@ HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-ali
 HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
 
 ### Etiqueta
-Label_0DD14F09_1744_0507_41AA_D8475423214A.text = Expo virtual
-Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = expo virtual
-Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = Expansión Digital tv4 
-Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = Expansión Digital tv4
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = 7° Foro Internacional
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = 7° Foro iNTERNACIONAL
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = Sustentabilidad y Responsabilidad Social 
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = sustentabilidad y responsabilidad social
 
 ## Media
 
 ### Título
-panorama_484FC8CF_4478_FA4E_41B7_1F03AB4C3B51.label = pano_3
-panorama_4A3B75F8_4478_CA52_41C9_55D7A0825B0E.label = pano_2
-panorama_4FB03408_442A_1473_4189_78124062611A.label = pano1
+panorama_BAC8B5A5_B074_D320_41DE_3BF2CF589A67.label = stands_2
+panorama_BC2F8AEB_B074_B120_41E2_9494E94FB4A9.label = stands_1
 
 ## Ventana
 
 ### Cuerpo
-htmlText_4B1174C1_4477_4AB2_41AB_E34B3FA33364.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Esfera azul</SPAN></DIV></BODY></HTML></div>
-htmlText_5416D288_4489_CEB1_41CF_8725D39564AE.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Cubo rojo</SPAN></DIV></BODY></HTML></div>
-htmlText_548CB15B_4488_CA57_41C8_6641F2231419.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Cono verde</SPAN></DIV></BODY></HTML></div>
-htmlText_559D1F92_4488_D6D1_419E_668B8CFF0690.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Cilindro morado</SPAN></DIV></BODY></HTML></div>
-htmlText_56CD38DE_442A_1D8F_41CB_C61804B14B18.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'Pero';">Torus rosa</SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_57E997E6_442E_33BF_41BE_DD57A238F287.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'Pero';">Poliedro amarillo</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_A0439A3C_B094_5127_41D4_7840D3B39051.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:justify;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">La Cámara de Comercio México-Estados</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">Unidos (USMCOC, por sus siglas en inglés) es</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">una organización binacional sin fines de lucro</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">que cuenta con 18 sedes distribuidas a lo largo</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">de México y Estados Unidos y que trabaja en la</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">construcción de relaciones exitosas, comercio,</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">sustentabilidad e inversiones mutuamente</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">benéficas entre México y Estados Unidos.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">La apertura de la Cámara en el estado de Guanajuato tiene como objetivo el</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">contribuir en el</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">fomento de la cultura, negocios, educación y bienestar binacional a través de la</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">internacionalización de productos y servicios mexicanos, así como la atracción</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">de nuevas</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">inversiones.</SPAN></DIV></BODY></HTML></div>
 
 ### Título
-window_4B1134C2_4477_4AB6_41AA_09CBF3E0BAE6.title = Figura 5
-window_5006CFA1_4436_33B5_417A_77687B10B300.title = Figura 1
-window_548CF15B_4488_CA57_41CC_D2123EA13C11.title = Figura 3
-window_549F7764_4489_5671_4189_36DB13D739C5.title = Figura 4
-window_54A4DAA6_4488_DEFE_41B9_4279F4C90342.title = Figura 2
-window_559D7F92_4488_D6D1_41C3_E364A34085E0.title = Figura 5
-
-## Acción
-
-### URL
-LinkBehaviour_52943993_44B8_DAD7_41C7_4BA92DCC60AE.source = https://www.facebook.com/tv4guanajuato
-LinkBehaviour_55AFE4F8_4499_4A51_41A4_B47DCD6B38B0.source = https://www.youtube.com/
+window_A07CDA13_B09D_F0E1_41E0_20F5298832E2.title = USMCOC

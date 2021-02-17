@@ -64,21 +64,3 @@
    font-weight: normal;
    font-style: normal;
 }
-@font-face {
-   font-family: "Pero SemiBold";
-   src: url("fonts/Pero-SemiBold.woff") format("woff"), url("fonts/Pero-SemiBold.eot") format("embedded-opentype"), url("fonts/Pero-SemiBold.otf") format("opentype");
-   font-weight: bold;
-   font-style: normal;
-}
-@font-face {
-   font-family: "Pero";
-   src: url("fonts/Pero-Bold.woff") format("woff"), url("fonts/Pero-Bold.eot") format("embedded-opentype"), url("fonts/Pero-Bold.otf") format("opentype");
-   font-weight: bold;
-   font-style: normal;
-}
-@font-face {
-   font-family: "Pero";
-   src: url("fonts/Pero-Regular.woff") format("woff"), url("fonts/Pero-Regular.eot") format("embedded-opentype"), url("fonts/Pero-Regular.otf") format("opentype");
-   font-weight: normal;
-   font-style: normal;
-}
